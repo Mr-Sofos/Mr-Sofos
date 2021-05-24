@@ -1,4 +1,4 @@
-[![Header](https://github.com/Mr-Sofos/Mr-Sofos/blob/main/assets/mrSofos.jpg)]
+[![Header](https://github.com/Mr-Sofos/Mr-Sofos/blob/main/assets/header.jpg)]
 
 About me
 
