@@ -19,6 +19,8 @@
 ![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
 ![PropTypes](https://img.shields.io/badge/PropTypes-266132?style=for-the-badge&logo=P)
+![CSS Modules](https://img.shields.io/badge/CSSModules-266132?style=for-the-badge&logo=CSSModules)
+![airbnb](https://img.shields.io/badge/airbnb-266132?style=for-the-badge&logo=airbnb)
 
 ### Примеры моих работ
 
