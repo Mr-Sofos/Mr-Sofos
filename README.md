@@ -24,7 +24,7 @@
 
 ### Примеры моих работ
 
-- Приложение Spy (игра шпион) [код](https://github.com/Mr-Sofos/Spy-app) | [demo]()
+- Приложение Spy (игра шпион) [код](https://github.com/Mr-Sofos/Spy-app) | [demo](https://radiant-badlands-44849.herokuapp.com/)
 - Авито т/з [код](https://github.com/Mr-Sofos/avito-tz) | [demo](https://frozen-peak-05634.herokuapp.com/)
 - Десктопный чат [код](https://github.com/Mr-Sofos/react-chat-app) | [demo](https://obscure-reef-65296.herokuapp.com/)
 
