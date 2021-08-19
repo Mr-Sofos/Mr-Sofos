@@ -23,8 +23,8 @@
 ![PropTypes](https://img.shields.io/badge/PropTypes-266132?style=for-the-badge&logo=P)
 ![CSS Modules](https://img.shields.io/badge/CSSModules-266132?style=for-the-badge&logo=CSSModules)
 ![airbnb](https://img.shields.io/badge/airbnb-266132?style=for-the-badge&logo=airbnb)
-![Webpack](https://img.shields.io/badge/Webpack-266132?style=for-the-badge&logo=airbnb)
-![Rollup](https://img.shields.io/badge/Rollup-266132?style=for-the-badge&logo=airbnb)
+![Webpack](https://img.shields.io/badge/Webpack-266132?style=for-the-badge&logo=Webpack)
+![Rollup](https://img.shields.io/badge/Rollup-266132?style=for-the-badge&logo=Rollup)
 
 ### Примеры моих работ
 
