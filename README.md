@@ -5,6 +5,7 @@
 Меня зовут Магомед. Я начал заниматься фронтэнд разработкой в начале 2020 года.
 
 ## Мои навыки:
+https://www.codewars.com/users/Ich-Charho/badges/large
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-266132?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
 ![React](https://img.shields.io/badge/-React-266132?style=for-the-badge&logo=React&logocolor=E9D54D)
