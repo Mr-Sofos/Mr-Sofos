@@ -1,4 +1,5 @@
 ![Header](https://github.com/Mr-Sofos/Mr-Sofos/blob/main/assets/header.png)
+
 ![img](https://www.codewars.com/users/Ich-Charho/badges/large)
 
 ## Wellcome to my profile!
@@ -22,6 +23,8 @@
 ![PropTypes](https://img.shields.io/badge/PropTypes-266132?style=for-the-badge&logo=P)
 ![CSS Modules](https://img.shields.io/badge/CSSModules-266132?style=for-the-badge&logo=CSSModules)
 ![airbnb](https://img.shields.io/badge/airbnb-266132?style=for-the-badge&logo=airbnb)
+![webpack](https://img.webpack.io/badge/airbnb-266132?style=for-the-badge&logo=airbnb)
+![rollup](https://img.rollup.io/badge/airbnb-266132?style=for-the-badge&logo=airbnb)
 
 ### Примеры моих работ
 
