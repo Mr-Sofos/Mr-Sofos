@@ -4,7 +4,7 @@
 
 ## Wellcome to my profile!
 
-Меня зовут Магомед. Я начал заниматься фронтэнд разработкой в начале 2020 года.
+Меня зовут Muhammad. Я начал заниматься фронтэнд разработкой в начале 2020 года.
 
 ## Мои навыки:
 
@@ -29,8 +29,8 @@
 ### Примеры моих работ
 
 - Приложение Spy (игра шпион) [код](https://github.com/Mr-Sofos/Spy-app) | [demo](https://radiant-badlands-44849.herokuapp.com/)
-- Авито т/з [код](https://github.com/Mr-Sofos/avito-tz) | [demo](https://frozen-peak-05634.herokuapp.com/)
 - Десктопный чат [код](https://github.com/Mr-Sofos/react-chat-app) | [demo](https://obscure-reef-65296.herokuapp.com/)
+- Авито т/з [код](https://github.com/Mr-Sofos/avito-tz) | [demo](https://frozen-peak-05634.herokuapp.com/)
 
 ### Я в соц. сетях
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/mtazbiev)
