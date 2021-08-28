@@ -1,10 +1,10 @@
-![Header](https://github.com/Mr-Sofos/Mr-Sofos/blob/main/assets/header.png)
+<!-- ![Header](https://github.com/Mr-Sofos/Mr-Sofos/blob/main/assets/header.png) -->
 
 ![img](https://www.codewars.com/users/Ich-Charho/badges/large)
 
-## Wellcome to my profile!
+<!-- ## Wellcome to my profile! -->
 
-Меня зовут Muhammad. Я начал заниматься фронтэнд разработкой в начале 2020 года.
+Меня зовут Muhammad. Я Frontend-разработчик.
 
 ## Мои навыки:
 
