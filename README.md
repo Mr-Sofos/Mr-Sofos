@@ -28,9 +28,9 @@
 
 ### Примеры моих работ
 
-- Приложение Spy (игра шпион) [код](https://github.com/Mr-Sofos/Spy-app) | [demo](https://radiant-badlands-44849.herokuapp.com/)
-- Десктопный чат [код](https://github.com/Mr-Sofos/react-chat-app) | [demo](https://obscure-reef-65296.herokuapp.com/)
-- Авито т/з [код](https://github.com/Mr-Sofos/avito-tz) | [demo](https://frozen-peak-05634.herokuapp.com/)
+- Spy (game) [code](https://github.com/Mr-Sofos/Spy-app) | [demo](https://radiant-badlands-44849.herokuapp.com/)
+- Desktop chat [code](https://github.com/Mr-Sofos/react-chat-app) | [demo](https://obscure-reef-65296.herokuapp.com/)
+- Blog [code](https://github.com/Mr-Sofos/blog-mern-front) | [demo](https://blog-mern-front.vercel.app/)
 
 ### Я в соц. сетях
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/mtazbiev)
