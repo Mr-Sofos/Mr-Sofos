@@ -20,6 +20,7 @@
 ![json-server](https://img.shields.io/badge/-json_server-266132?style=for-the-badge&logo=jsonServer&logocolor=E9D54D)
 ![HTML](https://img.shields.io/badge/HTML-266132?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-266132?style=for-the-badge&logo=SCSS)
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
 ![PropTypes](https://img.shields.io/badge/PropTypes-266132?style=for-the-badge&logo=P)
 ![CSS Modules](https://img.shields.io/badge/CSSModules-266132?style=for-the-badge&logo=CSSModules)
