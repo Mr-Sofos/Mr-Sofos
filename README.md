@@ -30,7 +30,7 @@
 
 ### Примеры моих работ
 
-- Spy (game) [code](https://github.com/Mr-Sofos/Spy-app) | [demo](https://radiant-badlands-44849.herokuapp.com/)
+- Spy (game) [code](https://github.com/Mr-Sofos/Spy-app) | [demo](https://whimsical-dragon-a52e76.netlify.app/)
 - Desktop chat [code](https://github.com/Mr-Sofos/react-chat-app) | [demo](https://obscure-reef-65296.herokuapp.com/)
 - Blog [code](https://github.com/Mr-Sofos/blog-mern-front) | [demo](https://blog-mern-front.vercel.app/)
 
