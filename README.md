@@ -1,6 +1,6 @@
 <!-- ![Header](https://github.com/Mr-Sofos/Mr-Sofos/blob/main/assets/header.png) -->
 
-![img](https://www.codewars.com/users/Mr-Sofos/badges/large)
+![img](https://www.codewars.com/users/rsschool_bc68b2c4d000ab02/badges/large)
 
 <!-- ## Wellcome to my profile! -->
 
